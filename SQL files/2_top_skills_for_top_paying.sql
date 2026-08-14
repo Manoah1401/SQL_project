@@ -43,7 +43,11 @@ FROM
     LEFT JOIN skills_dim as sd
     ON sjd.skill_id = sd.skill_id
 
-
+/*
+Result:
+SQL seems to be the skill commonly found in the highest paying data analyst jobs
+followed by Python and Tableau
+*/
 
 
 
