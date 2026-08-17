@@ -14,9 +14,9 @@ FROM
     INNER JOIN skills_dim as sd
     on sjd.skill_id = sd.skill_id
 WHERE
-    job_title_short = 'Data Analyst' and salary_year_avg is NOT NULL
+    job_title_short = 'Data Analyst' and salary_year_avg is NOT NULL AND job_work_from_home = True 
 GROUP BY
     skills
 ORDER BY
     Average_Salary DESC
-LIMIT 5
+LIMIT 25
