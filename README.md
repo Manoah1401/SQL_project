@@ -65,7 +65,7 @@ Here's the breakdown of the top data analyst jobs in 2026:
 - **Diverse Employers**: Companies like SmartAsset, Meta, and AT&T are among those offering high salaries, showing a broad interest across different industries.
 - **Job Title Variety**: There's a high diversity in job titles, from Data Analyst to Director of Analytics, reflecting varied roles and specializations within data analytics.
 
-![Top Paying Graph](asset\1.jpg)
+![Top Paying Graph](asset/1.jpg)
 Top Paying Roles Bar graph visualizing the salary for the top 10 salaries for data analysts; ChatGPT generated this graph from my SQL query results
 
 ### 2. Skills for Top Paying Jobs
@@ -117,7 +117,7 @@ Here's the frequency of skills listed across the 10 highest-paying remote Data A
 - Tableau is also highly sought after, with a bold count of 6. 
 - Other skills like R, Snowflake, Pandas, and Excel show varying degrees of demand.
 
-![Most In Demand](asset\2.jpg)
+![Most In Demand](asset/2.jpg)
 Top Paying Skills Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts; ChatGPT generated this graph from my SQL query results
 
 ### 3. In-Demand Skills for Data Analysts
